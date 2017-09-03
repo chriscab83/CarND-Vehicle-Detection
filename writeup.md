@@ -36,6 +36,8 @@ The goals / steps of this project are the following:
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
+The code for my project can be found in this [jupyter notebook](https://github.com/chriscab83/CarND-Vehicle-Detection/blob/master/vehicle-detection.ipynb).
+
 ---
 ### Writeup / README
 
