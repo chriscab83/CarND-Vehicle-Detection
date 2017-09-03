@@ -14,16 +14,16 @@ The goals / steps of this project are the following:
 * Estimate a bounding box for vehicles detected.
 
 [//]: # (Image References)
-[image1]: ./output_images/example_images.png
+[image1]: ./output_images/example_images.jpg
 [image2]: ./output_images/hog_example.jpg
 [image3]: ./output_images/size1_boxes.jpg
 [image4]: ./output_images/size2_boxes.jpg
-[image5]: ./output_images/size3_boxes.png
-[image6]: ./output_images/size4_boxes.png
-[image7]: ./output_images/found_rects.png
-[image8]: ./output_images/heatmap.png
-[image9]: ./output_images/heatmap_threshold.png
-[image10]: ./output_images/labels.png
+[image5]: ./output_images/size3_boxes.jpg
+[image6]: ./output_images/size4_boxes.jpg
+[image7]: ./output_images/found_rects.jpg
+[image8]: ./output_images/heatmap.jpg
+[image9]: ./output_images/heatmap_threshold.jpg
+[image10]: ./output_images/labels.jpg
 [image11]: ./output_images/pipline_foundcars.jpg
 [image12]: ./output_images/pipeline_testimg_0.jpg
 [image13]: ./output_images/pipeline_testimg_1.jpg
